@@ -1,4 +1,4 @@
-
+:::writing{variant=“standard” id=“74829”}
 📄 RAG-based Personal Assistant Chatbot
 
 A simple Retrieval-Augmented Generation (RAG) chatbot built using LangChain, FAISS, OpenAI, and Streamlit.
